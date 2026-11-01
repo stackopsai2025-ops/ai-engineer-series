@@ -10,12 +10,12 @@ Each week adds one new skill. Each week has a clear goal and a checker, so you a
 - Full AI Engineer Bano Playlist in Hindi: https://www.youtube.com/playlist?list=PLfGRoypEM_U0
 
 
-## The 12 weeks
+## The 12 weeks StackOps AI Channel
 
 | Week | Topic | What you build | Folder | Video |
 | --- | --- | --- | --- | --- |
-| 1 | Python and APIs | An order lookup that lists orders, requests returns with an API key, and handles every failure | [`week1-python-apis`](./week1-python-apis) | WEEK_1_VIDEO_LINK |
-| 2 | LLM APIs and structured output | Customer message to validated, structured data, with retry | [`week2-llm-structured`](./week2-llm-structured) | WEEK_2_VIDEO_LINK |
+| 1 | Python and APIs | An order lookup that lists orders, requests returns with an API key, and handles every failure | [`week1-python-apis`](./week1-python-apis) | Coming soon |
+| 2 | LLM APIs and structured output | Customer message to validated, structured data, with retry | [`week2-llm-structured`](./week2-llm-structured) | Coming soon |
 | 3 | FastAPI and async | The agent as a web service | Coming soon | |
 | 4 | RAG | Answer from the refund policy | Coming soon | |
 | 5 | Databases | Store orders, requests and results | Coming soon | |
